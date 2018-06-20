@@ -2,4 +2,6 @@
 
 ## Created by Bobby Hoffman
 
-## Bootstrap Portfolio
+rebuilding portfolio assignment 1 portfolio layout using the Bootstrap CSS Framework.
+
+

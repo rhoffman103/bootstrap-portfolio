@@ -198,16 +198,12 @@ input[type=submit]:hover {
 
 /* Portfolio Page */
 .work {
-    margin: 18px 0;
+    margin: 18px 0 -40px 0;
 }
 
 @media (min-width: 768px) {
     .bio-image {
         max-width: 300px;
         max-height: 200px;
-    }
-
-    div.my-container {
-        width: 600px;
     }
 }
